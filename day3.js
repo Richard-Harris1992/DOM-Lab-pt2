@@ -127,9 +127,7 @@ subMenuEl.addEventListener('click', function (e) {
     });
 
     h1.textContent = e.target.textContent
-    if (e.target.textContent = 'about') {
-        h1.textContent = about;
-    }
+  
 });
 
 
